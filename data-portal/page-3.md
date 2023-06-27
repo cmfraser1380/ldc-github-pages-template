@@ -7,7 +7,7 @@ title: Landscape Data Commons
 # Data Portal: Page 3
 [Page 1](./page-1.html) | [Page 2](./page-2.html) | Page 3
 
-This is an example of a data-portal documentation page for the Landscape Data Commons
+This is an example of a data-portal documentation page for the Landscape Data Commons.
 
 ## Section 1
 
