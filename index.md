@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LDC Documentation Page
+title: Landscape Data Commons Documentation
 ---
 
 # Landscape Data Commons Docs
