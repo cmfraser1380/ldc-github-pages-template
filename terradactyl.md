@@ -4,7 +4,7 @@ title: Landscape Data Commons
 ---
 | [Home](./) | [APIs](./apis.html) | [Data Portal](./data-portal.html) | `terradactyl` |
 
-# Data Portal Docs, Page 1
+# `terradactyl`
 
 This is an example of a `terradactyl` documentation page for the Landscape Data Commons.
 
