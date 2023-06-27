@@ -6,7 +6,7 @@ title: Landscape Data Commons Documentation
 
 # Landscape Data Commons Docs
 
-This is an example of a home page for the Landscape Data Commons (LDC) documentation site
+This is an example of a home page for the Landscape Data Commons (LDC) documentation site.
 
 ## Section 1
 
