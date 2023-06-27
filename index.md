@@ -2,6 +2,7 @@
 layout: default
 title: Landscape Data Commons Documentation
 ---
+[Home](./) | [APIs](./)
 
 # Landscape Data Commons Docs
 
