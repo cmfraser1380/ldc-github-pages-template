@@ -2,7 +2,7 @@
 layout: default
 title: Landscape Data Commons
 ---
-[Home](./) | [APIs](./apis.html) | [Data Portal](./data-portal.html) | `terradactyl` |
+| [Home](./) | [APIs](./apis.html) | [Data Portal](./data-portal.html) | `terradactyl` |
 
 # Data Portal Docs, Page 1
 
