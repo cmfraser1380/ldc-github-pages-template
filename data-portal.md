@@ -2,11 +2,11 @@
 layout: default
 title: Landscape Data Commons Documentation
 ---
-[home](./)
+[Home](./) | [APIs](./)
 
 # Data Portal Docs
 
-This is an example of a home page for the Landscape Data Commons (LDC) data-portal documentation page
+This is an example of a data-portal documentation page for the Landscape Data Commons
 
 ## Section 1
 
