@@ -1,2 +1,2 @@
 # ldc-github-pages-template
-Template repo for experimenting with GitHub Pages for LDC documentation website
+Template repo for creating an LDC documentation website using GitHub Pages 
