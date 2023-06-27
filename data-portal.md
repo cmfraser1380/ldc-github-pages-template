@@ -2,6 +2,7 @@
 layout: default
 title: Landscape Data Commons Documentation
 ---
+[home](./)
 
 # Data Portal Docs
 
