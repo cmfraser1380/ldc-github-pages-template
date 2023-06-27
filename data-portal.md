@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Portal Documentation
+title: Landscape Data Commons Documentation
 ---
 
 # Data Portal Docs
