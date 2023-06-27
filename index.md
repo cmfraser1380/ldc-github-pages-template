@@ -4,7 +4,7 @@ title: Landscape Data Commons
 ---
 [Home](./) | [APIs](./apis.html) | [Data Portal](./data-portal.html) | [`terradactyl`](./terradactyl.html) |
 
-# Landscape Data Commons Docs
+# Landscape Data Commons
 
 This is an example of a home page for the Landscape Data Commons (LDC) documentation site.
 
